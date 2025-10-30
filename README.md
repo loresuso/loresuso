@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Lorenzo, currently working at Datadog as Threat Detection Engineer, previously Threat Research team at Sysdig.
+
+Very deep into Linux runtime security, Cloud and application security. 🙌
 
 <!--
 **loresuso/loresuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
